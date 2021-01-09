@@ -11,6 +11,7 @@ class MyApp extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Image.asset('assets/imgs/img1.png'),
+
               ],
             ),
       ],
